@@ -10,21 +10,21 @@ import 'swiper/css/navigation';
 const mockData = [
   {
     id: 1,
-    title: '[ object object ]',
+    title: 'Warehousing Beyond Logistics: Can Facilities Function as Battery Banks?',
     date: '25 June 2026',
     image: '/images/card-1.png',
     category: 'Blog',
   },
   {
     id: 2,
-    title: '[ object object ]',
+    title: 'Supply Chain Disruptions 2026: Building Logistics Infrastructure Resilience',
     date: '12 May 2026',
     image: '/images/scd-header-new.png',
     category: 'News',
   },
   {
     id: 3,
-    title: '[ object object ]',
+    title: 'Staff Accommodation in Industrial Parks: The Missing Link to Manufacturing Productivity and Scale',
     date: '7 May 2026',
     image: '/images/horizon-residences.png',
     category: 'Press Release',
